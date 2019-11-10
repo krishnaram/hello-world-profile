@@ -1,0 +1,5 @@
+com\harman\profile\ProfileCredentials.class
+com\harman\profile\DevProfileCredentials.class
+com\harman\profile\HelloController.class
+com\harman\Helloworld.class
+com\harman\profile\ProdProfileCredentials.class

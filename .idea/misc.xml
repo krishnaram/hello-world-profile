@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../hello-world-spring-boot/pom.xml" />
+        <option value="$USER_HOME$/Documents/spring-boot-micrometer/pom.xml" />
+        <option value="$USER_HOME$/Documents/spring-boot-1.5-micrometer-prometheus-example/pom.xml" />
+        <option value="$USER_HOME$/Documents/ti-service/pom.xml" />
+        <option value="$USER_HOME$/Documents/ti-service/.flattened-pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

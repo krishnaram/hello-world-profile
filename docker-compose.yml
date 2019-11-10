@@ -1,0 +1,7 @@
+version: '3.6'
+services:
+  web:
+   image: ramkipanni/profilepicker:latest
+   ports:
+      - "9000:8098"
+   command: --spring.profiles.active=prod
